@@ -1,0 +1,33 @@
+@media (max-width:576px){
+  .col-4{
+    width:100%
+  }
+  .col-6{
+    width:100%;
+  }
+  .col-7{
+    width:100%;
+  }
+  .col-5{
+    width:100%;
+  }
+  .d-none{
+    display:none;
+  }
+  .bannercontent{
+    padding: 0 0;
+  }
+  .bannercontent h1{
+    font-size: 40px;
+  }
+  .bannercontent h2{
+    font-size: 28px;
+  }
+  .bannercontent img{
+    width:100%;
+    margin: 0 0;
+  }
+  .skill-inner{
+    padding: 0 0;
+  }
+}
